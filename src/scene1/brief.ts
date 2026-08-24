@@ -1,6 +1,4 @@
-// Scene 1 brief: Flow 훅
-// Duration: 4.0초 (96 frames @ 24fps)
-
+// Scene 1 review still: 4 seconds at 24fps.
 export const SCENE1 = {
-  durationInFrames: 103,
+  durationInFrames: 96,
 } as const;

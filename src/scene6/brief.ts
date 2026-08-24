@@ -1,5 +1,6 @@
 export const SCENE6 = {
-  durationInFrames: 91,
   fps: 24,
-  finalHoldInFrames: 6,
+  durationInFrames: 96,
+  leftLabel: '도배용',
+  rightLabel: '페인트용',
 } as const;
